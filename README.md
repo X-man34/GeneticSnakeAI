@@ -9,4 +9,6 @@ using the GUI you can tweak parameters, in order for you tweaks to take affect y
 
 You can enter whatever you want in the text fields, but i have not built in any limts or stuff.  So don't go insane with like the number of snakes or something.  
 IF YOU GET A JNI EROOR THEN YOU NEED TO GO AND REINSTALL THE LATEST VERSION OF JAVA
+
+go to https://www.oracle.com/java/technologies/downloads/#jdk17-windows and download/install the appropriate software
 I hope you find this usefull. 
